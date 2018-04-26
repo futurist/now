@@ -1,9 +1,19 @@
 {
-  "name": "@futurist/now",
+  "name": "now-nano",
   "version": "1.0.0",
-  "description": "Get time in nano second",
+  "description": "Get time in nano second, both for browser and node.",
   "main": "index.js",
-  "repository": "https://github.com/futurist/now",
-  "author": "futurist <jamesyang999@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurist/now.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurist/now/issues"
+  },
+  "homepage": "https://github.com/futurist/now#readme"
 }
