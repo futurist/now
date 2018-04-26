@@ -1,0 +1,9 @@
+{
+  "name": "@futurist/now",
+  "version": "1.0.0",
+  "description": "Get time in nano second",
+  "main": "index.js",
+  "repository": "https://github.com/futurist/now",
+  "author": "futurist <jamesyang999@gmail.com>",
+  "license": "MIT"
+}
